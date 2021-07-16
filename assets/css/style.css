@@ -184,7 +184,7 @@ h1, h2, h3, h4, h5, h6, .font-heading {
   transition: .2s all ease;
   font-weight: 700;
 }
-
+.root{background:black}
 .readmore:active, .readmore:focus, .readmore:hover {
   outline: none;
 }
